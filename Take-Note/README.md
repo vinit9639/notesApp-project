@@ -52,15 +52,6 @@ Take Note is a Mini Spring Boot MVC Web Application.
 
 
 
-# Project Image is given below:
-
-<h3>Project ER Diagram:</h3><br>  
-
-(https://github.com/mdtalalwasim/Take-Note/assets/91146041/98a0aa6d-2c08-45d6-a3bf-b6d3d82a2c66)
-
-
-
-
 ### Things you should know about me:
 - 🎓 <b>Education:</b> <i>MSc, BSc in Computer Science and Engineering.</i>
 - 💖 <b>Love:</b> Java Technology. 
